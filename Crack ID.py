@@ -10,7 +10,6 @@ for i in range(1,1000):
         break
 
 # Output
-# mohamed1234
 # ID of user is: 262
 # mcalderwood79@storify.com
 # Mariel Calderwood
