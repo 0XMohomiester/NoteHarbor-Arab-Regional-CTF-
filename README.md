@@ -1,3 +1,3 @@
 # NoteHarbor-Arab-Regional-CTF-
 
-This Repo contains the Solution of NoteHarbor challenge in Arab Regional Cybersecurity CTF 2023 Automated in Python scripts
+This Repo contains the Source Code of NoteHarbor challenge and the Solution of the challenge in Arab Regional Cybersecurity CTF 2023 Automated in Python scripts
